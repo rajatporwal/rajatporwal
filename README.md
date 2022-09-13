@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 
 • 🔭 I’m currently working on <b>something cool!</b> <br/>
 • 👯 I’m looking to collaborate on cool project.<br/>
-• 💬 Ask me about <b>Full Stack</b>.<br/>
-• 📫 Reach me out <a href="https://www.instagram.com/hi.coders"><b>@hi.coders</b></a><br/>
+• 💬 Ask me about <b>Froont End Development</b>.<br/>
+• 📫 Reach me out <a href="https://www.linkedin.com/in/porwalrajat/"><b>@rajatporwal</b></a><br/>
 </span>
 
 
