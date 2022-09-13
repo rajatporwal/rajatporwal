@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <br />
 
-**I am a self-taught Front-stack web from India.**
+**I am a self-taught Front-end web from India.**
 <br/>I enjoy taking up complex problems and turning them into simple and beautiful interface designs. I also love the logic and structure of coding and always strive to write elegant and efficient code, whether it be HTML, CSS, or JavaScript.
 <br />**I have 5+ Years of experience in front end web-dev.**
 
